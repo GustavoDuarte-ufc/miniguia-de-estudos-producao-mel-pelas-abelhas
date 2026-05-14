@@ -1,5 +1,6 @@
 # Miniguia de estudos sobre a Producao de mel pelas abelhas
 Criação de um NotebookLM para um estudo sobre a Produção de Mel pelas Abelhas, para um projeto da DIO.
+Link do NotebookLM -> https://notebooklm.google.com/notebook/e5014ca6-cecd-49e8-a213-fffd929a4fc9
 
 ### **Contexto e Objetivos:**
 Sabendo que as abelhas desempenham um importante papel em nosso ecossistema e que produzem um alimento tão amado e admirado por muitas pessoas, o mel, torna-se necessária a apresentação de um estudo relacionado a esse processo.
